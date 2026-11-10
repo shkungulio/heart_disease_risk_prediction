@@ -1,4 +1,5 @@
-# Predicting Heart Disease Risk: A Clinical Classification Study with Interpretable Machine Learning
+# Predicting Heart Disease Risk: 
+### A Clinical Classification Study with Interpretable Machine Learning
 
 End-to-end binary classification on the **UCI Heart Disease (Cleveland)** dataset: data cleaning, EDA with statistical tests, leak-free modeling pipelines, repeated cross-validation, hyper-parameter tuning, recall-oriented threshold selection, SHAP/permutation interpretability, a subgroup check, and a Streamlit demo.
 
