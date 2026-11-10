@@ -1,0 +1,27 @@
+{
+  "model": "Logistic Regression",
+  "n_test": 61,
+  "roc_auc": 0.961,
+  "pr_auc": 0.949,
+  "default_threshold": {
+    "threshold": 0.5,
+    "accuracy": 0.885,
+    "precision": 0.839,
+    "recall": 0.929,
+    "specificity": 0.848,
+    "f1": 0.881
+  },
+  "recall>=90%_threshold": {
+    "threshold": 0.29,
+    "accuracy": 0.82,
+    "precision": 0.718,
+    "recall": 1.0,
+    "specificity": 0.667,
+    "f1": 0.836
+  },
+  "roc_auc_95ci": [
+    0.905,
+    0.998
+  ],
+  "fairness_note": "See reports/fairness_by_group.csv (small subgroups; interpret with caution)"
+}

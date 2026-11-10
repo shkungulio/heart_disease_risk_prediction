@@ -1,0 +1,14 @@
+,auc_drop
+ca,0.0734
+cp,0.0231
+thal,0.0148
+oldpeak,0.0148
+thalach,0.0112
+exang,0.0091
+slope,0.0069
+trestbps,0.0038
+age,0.0014
+fbs,0.0003
+restecg,0.0001
+sex,-0.0003
+chol,-0.0016

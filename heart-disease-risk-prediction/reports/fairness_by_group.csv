@@ -1,0 +1,6 @@
+group,n,disease_rate,roc_auc,recall,precision
+Sex: Female,20,0.35,1.0,1.0,0.778
+Sex: Male,41,0.51,0.948,1.0,0.7
+Age band: <55,28,0.25,1.0,1.0,0.583
+Age band: 55-64,27,0.67,0.895,1.0,0.857
+Age band: 65+,6,0.5,1.0,1.0,0.5

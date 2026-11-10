@@ -1,0 +1,14 @@
+{
+  "best_model": "Logistic Regression",
+  "cv_auc": 0.8999,
+  "best_params": {
+    "clf__C": 0.1
+  },
+  "tuned_cv_auc": {
+    "Logistic Regression": 0.8999,
+    "SVM (RBF)": 0.8952,
+    "Random Forest": 0.8922,
+    "XGBoost": 0.8805
+  },
+  "random_state": 42
+}
