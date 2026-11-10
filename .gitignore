@@ -1,4 +1,7 @@
-*.ini
-.DS_Store
-.ipynb_checkpoints/
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+.env
